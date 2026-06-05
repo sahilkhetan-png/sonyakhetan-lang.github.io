@@ -127,7 +127,6 @@ body {
 }
 
 .future1 {
-  --bkg: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url('/img/futuristic_landscape_1.webp');
   --nav: rgb(38, 40, 42);
   --main-txt: rgb(90,120,130); /* rgb(90, 120, 130); */
   --main-shdw: 0 0 10px rgba(0,0,0,0.9);
